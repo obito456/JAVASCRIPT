@@ -1,0 +1,13 @@
+console.log(Math.PI);
+console.log(Math.E);
+console.log(Math.round(5.5));
+console.log(Math.floor(5.7));
+console.log(Math.ceil(9.2));
+console.log(Math.trunc(5.5));
+console.log(Math.pow(2,4));
+console.log(Math.sqrt(25));
+console.log(Math.sin(45));
+console.log(Math.abs(7.778));
+console.log(Math.sign(-55));
+console.log(Math.max(3,5,7));
+console.log(Math.min(3,5,7));
