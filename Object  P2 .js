@@ -4,3 +4,4 @@ const profile={
 };
 delete profile.Age;
 console.log(profile.Age);
+console.log(profile["Age"]);
